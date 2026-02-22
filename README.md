@@ -1,5 +1,5 @@
 # 📊 Sales Dashboard – Business Performance Analysis
-![Sales Dashboard](Screenshot 2026-02-23 011521.png)
+![Sales Dashboard](sales-dashboard.png)
 
 ## 📌 Project Overview
 
